@@ -4,16 +4,10 @@ Welcome to the `CU MCA Worksheets` repository! This repository contains workshee
 ## Contributing Guidelines
 
 ### You can contribute to this project in following ways:
-1. **Add a new worksheet:**
-   - You can add a new worksheet to this repository.
-
-2. **Add a new subject:**
-    - You can add a new subject to this repository.
-
-3. **Improve an existing worksheet:**
-   - You can improve an existing worksheet by adding more questions or by adding solutions to the questions.
-4. **Remove unnecessary worksheets or subjects:**
-   - You can remove unnecessary worksheets or subjects from this repository.
+ - Add a new worksheet.
+ - Add a new subject.
+ - Improve an existing worksheet.
+ - Remove unnecessary worksheets or subjects.
 
    
 ### PR Process
@@ -33,7 +27,7 @@ Welcome to the `CU MCA Worksheets` repository! This repository contains workshee
 
 3. **Make a new branch:**
    - Once you are in the local repository, create a new branch with your name_uid.
-   For example: `Gaurav_Kumar_22MCC20177`
+   For example: `Gaurav_Kumar_22MCC20177`.
     ```bash
     git checkout -b <your-name_uid>
     ```
